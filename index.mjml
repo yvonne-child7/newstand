@@ -1,0 +1,67 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+    </mj-attributes>
+		<!--這邊放css-->
+  </mj-head>
+
+  <mj-body background-color="#eee">
+
+    <mj-include path="./header.mjml" />
+
+    <mj-section background-color="#fff">
+
+      <mj-column width="700px">
+        <mj-text align="center">
+          <h2>如何搭訕</h2>
+          <mj-text color="#525252">
+            眼神（可以不用好看） + 語料庫
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+    
+    <mj-section>
+      <mj-column width="700px">
+        <mj-image width="200px" height="150px" src="https://cdn.pixabay.com/photo/2022/11/16/13/39/cuddly-toys	-7596017_960_720.jpg">
+        </mj-image>
+    	  <mj-text font- size="20px"
+                 font-family="Helvetica Neue"
+                 color="#626262">
+          成為雲端情人實在太難過了，雖然對話會很<a href="https://www.youtube.com/watch?v=f8TkUMJtK5k" color="purple">完美</a>，可是人類總是有那麼多<a href="https://www.arttherapy.org.tw/">情緒</a>，身邊的人尤其討厭，路上的一瞥風景好像可以帶自己到另一個更好的世界。
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column width="700px">
+        <mj-image width="200px" height="150px" src="https://w7.pngwing.com/pngs/613/488/png-transparent-brown-bear-plush-toy-teddy-bear-cuteness-inverted-teddy-bear-child-animals-heart-thumbnail.png">
+        </mj-image>
+    	  <mj-text font- size="20px"
+                 font-family="Helvetica Neue"
+                 color="#626262">
+          有時候也真的是這樣，因為多看、多聽、多學總是好的。
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#eee">
+      <mj-column width="700px">
+        <mj-image width="200px" height="150px" src="">
+        </mj-image>
+    	  <mj-text font- size="20px"
+                 font-family="Helvetica Neue"
+                 color="#626262">
+          方法是想辦法給予。(可是要自然一點喔)
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+
+</mjml>
